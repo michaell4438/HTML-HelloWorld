@@ -1,0 +1,18 @@
+h1 {
+  font-size: 75px;
+  line-height: 5px;
+  color: rgb(200, 70, 70);
+}
+
+body {
+  background-color: black;
+  color: rgba(200, 200, 200, 66);
+}
+
+b {
+  color: white
+}
+
+a {
+  color:greenyellow;
+}
